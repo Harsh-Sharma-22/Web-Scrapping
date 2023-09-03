@@ -20,7 +20,7 @@
 
   <h2>Getting Started</h2>
     <ol>
-        <li><strong>Clone the Repository:</strong> Clone this repository to your local machine using the following command:<br><code>git clone https://github.com/your-username/web-scraping-gdp.git</code></li>
+        <li><strong>Clone the Repository:</strong> Clone this repository to your local machine using the following command:<br><code>git clone https://github.com/Harsh-Sharma-22/Web-Scrapping.git</code></li>
         <li><strong>Navigate to the Project Directory:</strong> Change your current working directory to the project folder:<br><code>cd web-scraping</code></li>
         <li><strong>Run the Web Scraping Script:</strong> Execute the web scraping script by running the following command:<br><code>python web_scrapping.py</code></li>
     </ol>
